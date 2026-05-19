@@ -6,7 +6,7 @@ A modern, responsive, and fully interactive personal portfolio website built to 
 
 ## 🌐 Live Demo
 
-🔗 https://your-portfolio-link.vercel.app
+🔗 https://portfolio-kjcs-piii61qvj-satyamsingh-8888s-projects.vercel.app
 
 ---
 
